@@ -3,4 +3,4 @@ FireChat is a chat app integrated with Firebase and Google translate API created
 
 <h4>Note</h4>
 
-Plase replase the google translate API key for your own and the google services.json in the app directory
+Plase replace the google translate API key for your own and the google-services.json in the app directory to connect to your Firebase database
