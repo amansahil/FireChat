@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "435201017194",
+    "firebase_url": "https://translatechat-c7c5d.firebaseio.com",
+    "project_id": "translatechat-c7c5d",
+    "storage_bucket": "translatechat-c7c5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435201017194:android:ffc29471c64e8196",
+        "android_client_info": {
+          "package_name": "com.example.amansahil.firechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435201017194-01cu2ekm0hm37frsjgo816e16gl1go3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA41rYZoBP-ilLepZewSZCJTCEHzHiadRk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

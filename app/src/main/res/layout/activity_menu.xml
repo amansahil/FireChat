@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:gravity="center"
+                android:text="Hello"
+                android:textSize="23dp"
+                android:id="@+id/hello"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_margin="25dp"
+                android:background="@drawable/science"
+                android:elevation="10dp"
+                android:fontFamily="sans-serif- light"
+                android:scaleType="fitXY"
+                android:text="Science"
+                android:textColor="#ffffff"
+                android:textSize="25dp"
+                android:id="@+id/science"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_margin="25dp"
+                android:background="@drawable/technology"
+                android:elevation="10dp"
+                android:fontFamily="sans-serif- light"
+                android:scaleType="fitXY"
+                android:text="Technology"
+                android:textColor="#ffffff"
+                android:textSize="25dp"
+                android:id="@+id/technology"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_margin="25dp"
+                android:background="@drawable/pet"
+                android:elevation="10dp"
+                android:fontFamily="sans-serif- light"
+                android:scaleType="fitXY"
+                android:text="Pets"
+                android:textColor="#ffffff"
+                android:textSize="25dp"
+                android:id="@+id/pet"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_margin="25dp"
+                android:background="@drawable/obama"
+                android:elevation="10dp"
+                android:fontFamily="sans-serif- light"
+                android:scaleType="fitXY"
+                android:text="Humour"
+                android:textColor="#ffffff"
+                android:textSize="25dp"
+                android:id="@+id/humour"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_margin="25dp"
+                android:background="@drawable/nutella"
+                android:elevation="10dp"
+                android:fontFamily="sans-serif- light"
+                android:scaleType="fitXY"
+                android:text="Nutella"
+                android:textColor="#ffffff"
+                android:textSize="25dp"
+                android:id="@+id/nutella"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_margin="25dp"
+                android:background="@drawable/sports"
+                android:elevation="10dp"
+                android:fontFamily="sans-serif- light"
+                android:scaleType="fitXY"
+                android:text="Sports"
+                android:textColor="#ffffff"
+                android:textSize="25dp"
+                android:id="@+id/sports"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
