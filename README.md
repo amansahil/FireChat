@@ -3,7 +3,7 @@ FireChat is a chat app integrated with Firebase and Google translate API created
 
 # Setting up firebase
 
-1. Go to firebase.google.com abd click on go to console 
+1. Go to firebase.google.com and click on go to console 
 
 <img width="1440" alt="screen shot 2018-06-09 at 11 11 38 pm" src="https://user-images.githubusercontent.com/33552991/41195435-8e4e5e76-6c3e-11e8-84b0-85a7e8350063.png">
 
