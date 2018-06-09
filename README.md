@@ -31,3 +31,33 @@ FireChat is a chat app integrated with Firebase and Google translate API created
 
 <img width="692" alt="screen shot 2018-06-09 at 11 20 15 pm" src="https://user-images.githubusercontent.com/33552991/41195539-27bcbb6a-6c40-11e8-8238-9532c1f11e72.png">
 
+For more info check out - https://firebase.google.com/docs/android/setup
+
+# Setting up Google Translate API
+
+1. Go to cloud.google.com and click on go to console
+
+2. Create a new project and select API & Services from the sliding navigation bar
+
+<img width="1440" alt="screen shot 2018-06-09 at 11 21 24 pm" src="https://user-images.githubusercontent.com/33552991/41195558-b97c2518-6c40-11e8-92b9-568d20c0d710.png">
+
+3. Click on Enable Services and API
+
+<img width="1440" alt="screen shot 2018-06-09 at 11 21 43 pm" src="https://user-images.githubusercontent.com/33552991/41195571-fd6414fc-6c40-11e8-8b1a-e21ea898add6.png">
+
+4. Search for Google Translate API and enable it
+
+<img width="1440" alt="screen shot 2018-06-09 at 11 23 29 pm" src="https://user-images.githubusercontent.com/33552991/41195578-2e1f53ea-6c41-11e8-88ad-9271b08f311c.png">
+
+5. Go back and go to credentials
+
+<img width="1440" alt="screen shot 2018-06-09 at 11 21 43 pm copy" src="https://user-images.githubusercontent.com/33552991/41195596-735699fa-6c41-11e8-8ca9-5271563295e5.png">
+
+6) Click on create credentials and click on API key
+
+<img width="420" alt="screen shot 2018-06-06 at 2 21 04 am" src="https://user-images.githubusercontent.com/33552991/41005875-4d175180-6930-11e8-8aae-969e90f00b12.png">
+
+7) Replace the generated API key for the API_KEY placeholder in MenuActivity.java on Line 27 and in ChatActivity.java on Line 34
+
+For more info check out - https://cloud.google.com/translate/
+
