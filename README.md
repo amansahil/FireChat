@@ -61,3 +61,19 @@ For more info check out - https://firebase.google.com/docs/android/setup
 
 For more info check out - https://cloud.google.com/translate/
 
+# What you get
+
+<b>Initial Screen: </b>User enters their name and selects their preffered language 
+
+<div style="text-align:center"><img width="346" alt="screen shot 2018-06-10 at 2 42 25 pm" src="https://user-images.githubusercontent.com/33552991/41200897-2a26b7c4-6cbe-11e8-9b9d-d076ee60cf16.png"></div>
+
+<b>Menu Screen: </b>User selects from a variety of chat rooms and will get a hello message in their selected language
+
+<img width="995" alt="screen shot 2018-06-10 at 2 43 01 pm" src="https://user-images.githubusercontent.com/33552991/41200898-2f3022be-6cbe-11e8-9b1e-a6418a53e99e.png">
+
+<b>Chat Screen: </b>User can chat with a global audience and receive messages translated in their selected language  
+
+<img width="1036" alt="screen shot 2018-06-10 at 2 43 11 pm" src="https://user-images.githubusercontent.com/33552991/41200899-30c8e408-6cbe-11e8-81ad-600c42ce995a.png">
+
+
+
