@@ -11,7 +11,7 @@ FireChat is a chat app integrated with Firebase and Google translate API created
 
 <img width="1440" alt="screen shot 2018-06-09 at 11 11 53 pm" src="https://user-images.githubusercontent.com/33552991/41195457-dbc162ac-6c3e-11e8-9262-f6be02577cbe.png">
 
-3. After being redirected, go to database from the nav bar and click on get started with real time database
+3. After being redirected, go to database from the nav bar and click on get started with real time database.<b>Start in test mode</b>
 
 <img width="1440" alt="screen shot 2018-06-09 at 11 12 46 pm" src="https://user-images.githubusercontent.com/33552991/41195475-167ce89e-6c3f-11e8-8185-96bbe8017b94.png">
 
